@@ -1,0 +1,2 @@
+weather is rainy
+weather is sunny
